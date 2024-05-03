@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vstfl
 - 👀 I’m interested in applying programming to transportation engineering
-- 🌱 I’m currently learning CSS, HTML, and Javascript for Web Development
+- 🌱 I’m currently learning CSS, HTML, JS and Firebase for a Web Development project
 - ⚡ Fun fact: ...
 
 <!---
