@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vstfl
-- 👀 I’m interested in applying programming to transportation engineering
+- 👀 I’m interested in applying programming, automation, and systems engineering to transportation engineering
 - 🌱 I’m currently learning CSS, HTML, JS, Mapbox, and Firebase to build practical implementations of research
 
 
