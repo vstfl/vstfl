@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vstfl
-- 👀 I’m interested in applying programming, automation, and systems engineering to the field of transportation engineering!
-- 🌱 I’m currently learning CSS, HTML, JS, Mapbox, and Firebase to build practical and systematic implementations of research!
+- 👀 I’m interested in applying programming and automation to the field of transportation engineering!
+- 🌱 I’m currently learning CSS, HTML, JS, Mapbox, and Firebase to build systematic implementations of research
 
 https://github.com/vstfl/vstfl/blob/main/README.md
 <!---
