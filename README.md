@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vstfl
-- 👀 I’m interested in applying programming and automation to the field of transportation engineering!
+- 👀 I’m interested in applying programming, automation, data science, and machine learning to the field of transportation engineering!
 - 🌱 I’m currently learning the ways of full-stack to build systematic implementations of research.
-
+- ⚡ Right now, I'm applying deep learning to aid winter road maintenance monitoring.
 https://github.com/vstfl/vstfl/blob/main/README.md
 <!---
 - ⚡ Fun fact: ...
